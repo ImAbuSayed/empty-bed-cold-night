@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-bed-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Empty Bed Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-bed-cold-night/) |
+| **Get License** | [Request Licensing for Empty Bed Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-bed-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The fire is dying down to just a spark,
+> I'm reaching for your shadow in the dark.
+> This empty bed, this cold and quiet night,
+> Just need your body here to make it right.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
