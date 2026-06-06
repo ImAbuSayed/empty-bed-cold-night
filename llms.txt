@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/empty-bed-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Empty Bed Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-bed-cold-night/) |
+| **Get License** | [Get a Licensing Quote for Empty Bed Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/empty-bed-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2746)
 
 ---
 
