@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Empty Bed Cold Night
+
+This log tracks the cryptographic history and versioning for the song **Empty Bed Cold Night** (empty-bed-cold-night).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:20:40.954374 | `v1` | `2d16400e9e69da2872cf3ace9652db167c8c938dba222f43794a91e3d3ded1a5` | `164db74d0a5d000decf73ebeba1964b06941430ccc3ec2ad7ffe7135aa1ad448` | `2026-06-06_empty-bed-cold-night-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
